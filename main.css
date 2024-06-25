@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
 
 body {
-    background-color: #1b1b1b;
+    background-color: #000;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -59,7 +59,7 @@ nav h1 {
 }
  
 .search input {
-    background-color: #222222;
+    background-color: #fff;
     border: none;
     border-radius: 1vw 0 0 1vw;
     color: #fff;
@@ -110,7 +110,7 @@ nav h1 {
 }
  
 #games img:hover {
-    transform: scale(1.01);
+    transform: scale(1.1);
 }
 
 .featured {
@@ -148,7 +148,7 @@ nav h1 {
 }
 
 .featured img:hover {
-    transform: scale(1.02);
+    transform: scale(1.1);
     filter: brightness(50%);
 }
 
